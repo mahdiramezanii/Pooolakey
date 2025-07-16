@@ -41,8 +41,6 @@ android {
     namespace 'ir.cafebazaar.flutter_poolakey'
     compileSdkVersion 33
     
-
-
     buildFeatures {
         buildConfig true
     }
